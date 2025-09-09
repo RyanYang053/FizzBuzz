@@ -21,7 +21,7 @@ public class Multiples {
             else {
                 i++;
             }
-            }
+        }
         return count;
     }
 }
