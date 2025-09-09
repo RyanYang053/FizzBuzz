@@ -12,6 +12,7 @@ class FizzBuzz {
         while(i < 100) {
 
             doFizzBuzz(i);
+            i++;
 
         }
     }
